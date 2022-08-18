@@ -15,3 +15,4 @@ Repository name: CMPG-323-Project-5-32687230
 ## Diagram explaining project and repository context and how they are integrated:
 -
 
+## The branching strategy that will be used within each project:
