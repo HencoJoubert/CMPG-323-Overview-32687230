@@ -13,6 +13,9 @@ Repository name: CMPG-323-Project-4-32687230
 Repository name: CMPG-323-Project-5-32687230
 
 ## Diagram explaining project and repository context and how they are integrated:
--
 
 ## The branching strategy that will be used within each project:
+
+## The use of a .gitignore file within each project:
+
+## The storage of credentials and sensitive information 
