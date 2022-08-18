@@ -17,4 +17,4 @@ Repository name: CMPG-323-Project-4-32687230
 ### Project 5:
 Repository name: CMPG-323-Project-5-32687230
 
-
+## Diagram explaining project and repository context and how they are integrated:
